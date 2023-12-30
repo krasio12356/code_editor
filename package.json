@@ -1,0 +1,21 @@
+{
+  "name": "code_editor",
+  "version": "1.0.0",
+  "description": "Code editor with syntax highlightind on HTML5 canvas",
+  "main": "main.js",
+  "scripts": 
+  {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": 
+  {
+    "type": "git",
+    "url": "code_editor"
+  },
+  "author": "Krasimir Stankov",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.1.0"
+  }
+}
